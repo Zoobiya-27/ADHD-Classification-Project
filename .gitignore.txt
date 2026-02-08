@@ -1,0 +1,6 @@
+hyperaktiv_with_controls.zip
+*.csv
+*.png
+*.txt
+__pycache__/
+.ipynb_checkpoints/
