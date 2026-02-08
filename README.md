@@ -13,3 +13,4 @@ Dataset is not included due to license restrictions.
 1. Install requirements:
    ```bash
    pip install -r requirements.txt
+2. Open main.ipynb in Google Colab/Jupyter notebook & run it.
