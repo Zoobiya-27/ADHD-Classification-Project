@@ -1,4 +1,4 @@
-# ADHD Classification Project
+# ADHD Classification Using Machine Learning on HYPERAKTIV Dataset
 
 Machine learning–based ADHD classification using multimodal wearable and clinical data (HYPERAKTIV dataset).
 
